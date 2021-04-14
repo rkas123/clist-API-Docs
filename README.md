@@ -2,7 +2,7 @@
 
 - In this Documentation, I will through the cplist API for _Contests_ only.
 - clist provides an API which gives information about all the past and future contests on various Coding Platforms.
-- I recently built a [React Project](https://thirsty-kilby-5c3c7c.netlify.app/signin) Using the clist API.
+- I recently built a [React Project](https://thirsty-kilby-5c3c7c.netlify.app/upcoming) Using the clist API.
 
 ## <br/>
 
@@ -120,7 +120,7 @@ To get info of mulitple contests. Integer Ids must be separated by _comma_.
 
 - Each platfrom has an unique resource_id associated with it. We can filter data by providing the resource_id of a platform of your choice.
 - clist doesn't provide the resource ids publically, but I have written a NodeJS program which extracts the platform associated with each resource_id.
-- You can find the code in [here]().
+- You can find the code in [here](https://github.com/rkas123/clist-API-Docs/blob/master/server2.js).
 - Nevertheless, some useful data is here->
 
 | resource_id | Platform                                              |
@@ -200,12 +200,12 @@ We can get data sorted in desired order. This field only accepts certain values.
 
 ### clist API has a throttle of only **6 API calls per minute**. If a user crosses the limit, the user will receive an Error Code 429!!
 
-### For multiple API calls, without crossing the throttle, we need to use **setTimeout** function in javascript. For Demo, refer to [my code]() I used for fetching resource_ids.
+### For multiple API calls, without crossing the throttle, we need to use **setTimeout** function in javascript. For Demo, refer to [my code](https://github.com/rkas123/clist-API-Docs/blob/master/server.js) I used for fetching resource_ids.
 
 ## <br/>
 
 
 ## 5. **Complete List of Resources clist Provides**
 
-- [Find it here]()
+- [Find it here](https://github.com/rkas123/clist-API-Docs/blob/master/resource_ids.txt)
 

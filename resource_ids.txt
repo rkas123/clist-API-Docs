@@ -1,0 +1,211 @@
+//server.js output
+
+
+id  1 : codeforces.com
+id  2 : codechef.com
+id  3 : uva.onlinejudge.org
+id  4 : dl.gsu.by
+id  5 : acmp.ru
+id  6 : opencup.ru
+id  7 : acm.timus.ru
+id  9 : contests.snarknews.info
+id  10 : e-olymp.com
+id  11 : neerc.ifmo.ru/school
+id  12 : topcoder.com
+id  13 : neerc.ifmo.ru/trains
+id  23 : hsin.hr/coci
+id  25 : usaco.org
+id  26 : spoj.com
+id  29 : facebook.com/hackercup
+id  30 : acmu.ru
+id  34 : acm.petrsu.ru
+id  35 : codingcompetitions.withgoogle.com
+id  37 : russiancodecup.ru
+id  38 : ipsc.ksp.sk
+id  40 : icfpcontest.org
+id  61 : contest.yandex.ru
+id  62 : ws.kh.ua
+id  63 : hackerrank.com
+id  64 : codeforces.com/gyms
+id  65 : projecteuler.net
+id  66 : azspcs.net
+id  67 : algorithm.contest.yandex.com
+id  69 : contest.bsuir.by
+id  70 : ctftime.org
+id  71 : marathon24.com
+id  72 : contest.bayan.ir
+id  73 : hackerearth.com
+id  74 : kaggle.com
+id  75 : battlecode.org
+id  76 : karelia.snarknews.info
+id  77 : dmoj.ca
+id  78 : acm.hdu.edu.cn
+id  79 : ch24.org
+id  80 : deadline24.pl
+id  81 : codingame.com
+id  82 : stats.ioinformatics.org
+id  83 : opener.itransition.com
+id  84 : russianaicup.ru
+id  85 : olympiads.ru
+id  86 : icpc.baylor.edu
+id  89 : hftbattle.com
+id  90 : csacademy.com
+id  91 : open.kattis.com
+id  93 : atcoder.jp
+id  94 : contest.bioinf.me
+id  95 : contest.pizza
+id  96 : honorcup.ru
+id  97 : acm.bsu.by
+id  98 : it-edu.mipt.ru
+id  99 : aicups.ru
+id  100 : codingcontest.org
+id  101 : bubblecup.org
+id  102 : leetcode.com
+id  103 : tlx.toki.id
+id  104 : neerc.ifmo.ru
+id  105 : adventofcode.com
+id  106 : aigaming.com
+id  108 : coj.uci.cu
+id  109 : yukicoder.me
+id  110 : toph.co
+id  112 : contest.yandex.ru/CYF
+id  113 : codility.com
+id  114 : acm.bsuir.by
+id  115 : rucode.net
+id  116 : algoge.com
+id  117 : binarysearch.com
+id  119 : pcms.university.innopolis.ru
+
+
+//server2.js output
+
+1 codeforces.com
+2 codechef.com
+3 uva.onlinejudge.org  
+4 dl.gsu.by
+5 acmp.ru
+6 undefined
+7 acm.timus.ru
+8 undefined
+9 undefined
+10 e-olymp.com
+11 neerc.ifmo.ru/school
+12 topcoder.com        
+13 neerc.ifmo.ru/trains
+14 undefined
+15 undefined
+16 undefined
+17 undefined
+18 undefined
+19 undefined
+20 undefined
+21 undefined
+22 undefined
+23 hsin.hr/coci
+24 undefined
+25 usaco.org
+26 spoj.com
+27 undefined
+28 undefined
+29 undefined
+30 acmu.ru
+31 undefined
+32 undefined
+33 undefined
+34 acm.petrsu.ru
+35 codingcompetitions.withgoogle.com
+36 undefined
+37 russiancodecup.ru
+38 ipsc.ksp.sk
+39 undefined
+40 icfpcontest.org
+41 undefined
+42 undefined
+43 undefined
+44 undefined
+45 undefined
+46 undefined
+47 undefined
+48 undefined
+49 undefined
+50 undefined
+51 undefined
+52 undefined
+53 undefined
+54 undefined
+55 undefined
+56 undefined
+57 undefined
+58 undefined
+59 undefined
+60 undefined
+61 contest.yandex.ru
+62 undefined
+63 hackerrank.com
+64 codeforces.com/gyms
+65 projecteuler.net
+66 azspcs.net
+67 algorithm.contest.yandex.com
+68 undefined
+69 contest.bsuir.by
+70 ctftime.org
+71 undefined
+72 undefined
+73 hackerearth.com
+74 kaggle.com
+75 battlecode.org
+76 undefined
+77 dmoj.ca
+78 acm.hdu.edu.cn
+79 ch24.org
+80 undefined
+81 undefined
+82 undefined
+83 undefined
+84 russianaicup.ru
+85 olympiads.ru
+86 icpc.baylor.edu
+87 undefined
+88 undefined
+89 undefined
+90 csacademy.com
+91 open.kattis.com
+92 undefined
+93 atcoder.jp
+94 undefined
+95 undefined
+96 undefined
+97 undefined
+98 undefined
+99 undefined
+100 undefined
+101 undefined
+102 leetcode.com
+103 tlx.toki.id
+104 neerc.ifmo.ru
+105 adventofcode.com
+106 undefined
+107 undefined
+108 coj.uci.cu
+109 yukicoder.me
+110 toph.co
+111 undefined
+112 contest.yandex.ru/CYF
+113 undefined
+114 undefined
+115 undefined
+116 undefined
+117 binarysearch.com
+118 undefined
+119 undefined
+120 undefined
+121 challenges.reply.com
+122 undefined
+123 undefined
+124 undefined
+125 undefined
+126 undefined
+127 undefined
+128 undefined
+129 undefined
+

@@ -198,9 +198,9 @@ We can get data sorted in desired order. This field only accepts certain values.
 
 ## 4. **Caution**
 
-### clist API has a throttle of only **6 API calls per minute**. If a user crosses the limit, the user will receive an Error Code 429!!
+*  clist API has a throttle of only **6 API calls per minute**. If a user crosses the limit, the user will receive an Error Code 429!!
 
-### For multiple API calls, without crossing the throttle, we need to use **setTimeout** function in javascript. For Demo, refer to [my code](https://github.com/rkas123/clist-API-Docs/blob/master/server.js) I used for fetching resource_ids.
+*  For multiple API calls, without crossing the throttle, we need to use **setTimeout** function in javascript. For Demo, refer to [my code](https://github.com/rkas123/clist-API-Docs/blob/master/server.js) I used for fetching resource_ids.
 
 ## <br/>
 

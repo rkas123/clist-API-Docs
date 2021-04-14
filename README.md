@@ -15,9 +15,6 @@
 
 ## <br/>
 
----
-
-## <br/>
 
 ## 2. **Data Format**
 
@@ -82,7 +79,6 @@
     }
 ```
 
----
 
 ## <br/>
 
@@ -91,8 +87,6 @@
 - With API key you are all set to start fetching data from clist API.
 - > https://clist.by/api/v1/contest/?username=${username}&api_key=${apiKey}
   - The data returned by the above API call will not be of any practical use as it consists for random contests.
-
----
 
 ## <br/>
 
@@ -201,9 +195,6 @@ We can get data sorted in desired order. This field only accepts certain values.
 
 ## <br/>
 
----
-
-## <br/>
 
 ## 4. **Caution**
 
@@ -213,9 +204,6 @@ We can get data sorted in desired order. This field only accepts certain values.
 
 ## <br/>
 
----
-
-## <br/>
 
 ## 5. **Complete List of Resources clist Provides**
 

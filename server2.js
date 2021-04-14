@@ -3,6 +3,9 @@ const require = createRequire(import.meta.url);
 import axios from "axios";
 require("dotenv").config();
 
+// NOTE:
+// Store your user name and API key in .env file
+
 const arr = new Array(130);
 const fetch = async () => {
   const url = `https://clist.by/api/v1/contest/?username=${process.env.user}&api_key=${process.env.APIkey}&limit=19900`;

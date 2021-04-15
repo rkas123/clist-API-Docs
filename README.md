@@ -1,4 +1,4 @@
-# clist API Documentation
+# clist.by API Documentation
 
 - In this Documentation, I will through the cplist API for _Contests_ only.
 - clist provides an API which gives information about all the past and future contests on various Coding Platforms.

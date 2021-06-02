@@ -1,5 +1,5 @@
 # clist.by API Documentation
-- Made by: Rupesh Kumar
+- Made by: [Rupesh Kumar](https://www.linkedin.com/in/rupesh-kumar-a23597175/)
 - In this Documentation, I will through the cplist API for _Contests_ only.
 - clist provides an API which gives information about all the past and future contests on various Coding Platforms.
 - I recently built a [React Project](https://thirsty-kilby-5c3c7c.netlify.app/upcoming) Using the clist API.

@@ -202,7 +202,7 @@ We can get data sorted in desired order. This field only accepts certain values.
 
 *  For multiple API calls, without crossing the throttle, we need to use **setTimeout** function in javascript. For Demo, refer to [my code](https://github.com/rkas123/clist-API-Docs/blob/master/server.js) I used for fetching resource_ids.
 
-* The above method can't used in a real world application. In my project I fetch data, and store it in a MongoDB database. I also store the timestamps of data updation and after each hour, the data of the database is updated. Overall, [My Project](https://thirsty-kilby-5c3c7c.netlify.app/upcoming) does an API call **ONCE IN AN HOUR**.
+* The above method can't used in a real world application. In my project I fetch data, and store it in a MongoDB database. I also store the timestamps of data updation and after each hour, the data of the database is updated. Overall, [My Project](https://codeforces-comparator.netlify.app/upcoming) does an API call **ONCE IN AN HOUR**.
 
 * Find the code I use in my project [server3.js](https://github.com/rkas123/clist-API-Docs/blob/master/server3.js).
 
